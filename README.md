@@ -13,8 +13,6 @@
 <p align="left">✨ Creando proyectos desde el inicio de mi carrera universitaria.<br>
 📚 Actualmente estoy aprendiendo sobre modelado predictivo y minería de datos.<br>
 🎯 Objetivos: Contribuir a proyectos innovadores de IA y mejorar continuamente mis habilidades técnicas.<br>
-🎲 Dato curioso: Compito en maratones de programación los fines de semana.</p>
-
 ###
 
 <h2 align="left">Mis habilidades técnicas</h2>
