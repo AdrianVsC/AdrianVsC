@@ -49,7 +49,7 @@
 
 <h2 align="left">Contacto</h2>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Gmail_Icon.svg" alt="Gmail Icon" width="20" height="20"> Gmail: <a href="mailto:adrianpandurovaldivia@gmail.com">adrianpandurovaldivia@gmail.com</a>
+  <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="22" height="22"> Gmail: adrianpandurovaldivia@gmail.com</a>
 </p>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20"> LinkedIn: <a href="https://www.linkedin.com/in/adrian-panduro-valdivia-7a1ab5290/">Adrian Panduro Valdivia</a>
