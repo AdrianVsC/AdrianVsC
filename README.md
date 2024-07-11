@@ -48,5 +48,9 @@
 <p align="left">Muchas ganas de aprender y aportar la combinación de aptitudes que aprendí con la práctica con un enfoque en soluciones innovadoras en ciencia de datos. Tengo experiencia en la aplicación de técnicas de machine learning y análisis de grandes volúmenes de datos para resolver problemas complejos y generar insights valiosos.</p>
 
 <h2 align="left">Contacto</h2>
-<p align="left">Gmail: <a href="mailto:adrianpandurovaldivia@gmail.com">adrianpandurovaldivia@gmail.com</a></p>
-<p align="left">LinkedIn: <a href="https://www.linkedin.com/in/adrian-panduro-valdivia-7a1ab5290/">Adrian Panduro Valdivia</a></p>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Gmail_Icon.svg" alt="Gmail Icon" width="20" height="20"> Gmail: <a href="mailto:adrianpandurovaldivia@gmail.com">adrianpandurovaldivia@gmail.com</a>
+</p>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20" height="20"> LinkedIn: <a href="https://www.linkedin.com/in/adrian-panduro-valdivia-7a1ab5290/">Adrian Panduro Valdivia</a>
+</p>
